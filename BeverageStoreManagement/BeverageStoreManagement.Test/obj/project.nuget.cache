@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzZb8KRCKvTWRxk5MbPVxA5NggRwc3cI/cyihib/WXnumAA1dlY9n5epqGlKHy1ND2QM6417wrIXBCHRQBtFag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.Test\\BeverageStoreManagement.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

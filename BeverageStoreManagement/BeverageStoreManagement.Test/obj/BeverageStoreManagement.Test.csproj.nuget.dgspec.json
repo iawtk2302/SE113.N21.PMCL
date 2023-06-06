@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.Test\\BeverageStoreManagement.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.Test\\BeverageStoreManagement.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.Test\\BeverageStoreManagement.Test.csproj",
+        "projectName": "BeverageStoreManagement.Test",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.Test\\BeverageStoreManagement.Test.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.csproj": {
+                "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.csproj",
+        "projectName": "BeverageStoreManagement",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement\\BeverageStoreManagement.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
